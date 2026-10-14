@@ -100,6 +100,7 @@
 
 ###  Схема вычислений (Морфологическая структура процесса)
 ![Схема вычислений]("C:\Users\ADMIN\Desktop\bachelor\IMG_0512.PNG")
+<img width="2220" height="3270" alt="IMG_0512" src="https://github.com/user-attachments/assets/fcfa0377-1d09-471d-8b74-62625aaa59dd" />
 
 
 ## Итог лабораторной работы
