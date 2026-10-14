@@ -99,7 +99,7 @@
 
 
 ###  Схема вычислений (Морфологическая структура процесса)
-![Схема вычислений]("C:\Users\ADMIN\Desktop\IMG_0512.PNG")
+![Схема вычислений]("C:\Users\ADMIN\Desktop\bachelor\sem1\informatics\lab1\IMG_0512.PNG")
 
 
 ## Итог лабораторной работы
